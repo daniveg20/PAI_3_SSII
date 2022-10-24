@@ -1,1 +1,1 @@
-num_pruebas=2
+num_pruebas=300
